@@ -6,15 +6,14 @@ Welcome! This repository hosts the **HackPack** resources for the **MultiCare & 
 
 The HackPack is a PowerPoint deck that walks you through the hackathon: goals, agenda, use cases, tooling, and step-by-step guidance for building your AI agents.
 
-- **[`resources/HackPack.pptx`](resources/HackPack.pptx)** — the full workshop deck (~32 MB)
+- **[⬇️ Download HackPack.pptx](https://github.com/yurilausberg/hackpack-workshop/raw/main/resources/HackPack.pptx)** — the full workshop deck (~32 MB). Clicking this downloads the file directly.
 
 ## ⬇️ How to get the HackPack
 
 Pick whichever is easiest for you:
 
-1. **Download the single file (recommended)**
-   - Open [`resources/HackPack.pptx`](resources/HackPack.pptx)
-   - Click the **Download** button (⤓) in the top-right of the file view
+1. **One-click download (recommended)**
+   - Click **[⬇️ Download HackPack.pptx](https://github.com/yurilausberg/hackpack-workshop/raw/main/resources/HackPack.pptx)** — the file downloads immediately, no extra pages
    - Open the downloaded file in PowerPoint (desktop or web)
 
 2. **Download the whole repo as a ZIP**
