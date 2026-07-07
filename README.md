@@ -1,6 +1,6 @@
 # HackPack — Agents Hackathon Workshop
 
-Welcome! This repository hosts the **HackPack** resources for the **MultiCare & Overlake Agents Hackathon** (18–19 May 2026). Everything you need to get started is right here.
+Welcome! This repository hosts the **HackPack** resources for the **Agents Hackathon** workshop. Everything you need to get started is right here.
 
 ## 📦 What's in the HackPack
 
@@ -38,10 +38,6 @@ Pick whichever is easiest for you:
 - View the deck in **Slide Show mode** for any embedded animations or links.
 - Keep a copy handy offline; Wi-Fi at events can be unpredictable.
 - Have PowerPoint (desktop or [PowerPoint for the web](https://office.com)) ready before the session starts.
-
-## 📅 Event
-
-**MultiCare & Overlake Agents Hackathon** — 18–19 May 2026
 
 ---
 
