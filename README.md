@@ -26,6 +26,13 @@ Pick whichever is easiest for you:
    cd hackpack-workshop
    ```
 
+## 📘 Bonus guide: On‑brand content with Copilot
+
+New to the HackPack — a short reference on getting **Microsoft 365 Copilot** and agents you build with **Agent Builder** to follow a **style guide** and use your **PowerPoint templates**, plus a clear map of what Agent Builder *can* and *can't* do (and how to add Planner/Teams actions).
+
+- **[📄 Read the guide (Markdown)](resources/copilot-branding-and-actions-guide.md)** — view it right in GitHub
+- **[⬇️ Download the guide (PDF)](https://github.com/yurilausberg/hackpack-workshop/raw/main/resources/copilot-branding-and-actions-guide.pdf)** — print‑friendly, easy to share
+
 ## 🚀 Getting Started
 
 1. Download and open **`HackPack.pptx`**.
